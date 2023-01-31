@@ -115,3 +115,4 @@ The app must have the following functionalities
 # browser
 # browser
 # browser
+# browser
