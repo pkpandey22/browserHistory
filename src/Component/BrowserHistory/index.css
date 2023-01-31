@@ -1,0 +1,31 @@
+.list-container {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+.browser-list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.domain-logo {
+  width: 20px;
+  height: 20px;
+  margin-left: 60px;
+  margin-right: 15px;
+}
+
+.title {
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.title-container {
+  display: flex;
+  align-items: center;
+}
+.delete-btn {
+  margin-right: 100px;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
