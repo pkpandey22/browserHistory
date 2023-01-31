@@ -112,3 +112,4 @@ The app must have the following functionalities
 # browserHist
 # browser
 # browser
+# browser
